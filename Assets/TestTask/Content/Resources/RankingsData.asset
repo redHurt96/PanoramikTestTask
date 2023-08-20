@@ -1,0 +1,435 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55e3165892394bfabfcf28c1fafdd640, type: 3}
+  m_Name: RankingsData
+  m_EditorClassIdentifier: 
+  RankingUserData:
+  - Nickname: OPYCES
+    Position: 1
+    Rank: 98349
+    IconName: icons_1_10
+    IsLocal: 0
+  - Nickname: FMOHAUCFEVZ
+    Position: 2
+    Rank: 97196
+    IconName: icons_1_13
+    IsLocal: 0
+  - Nickname: AFLMZXRHFNODB
+    Position: 3
+    Rank: 96191
+    IconName: icons_1_13
+    IsLocal: 0
+  - Nickname: ZBVUHPQNEOMAK
+    Position: 4
+    Rank: 94827
+    IconName: icons_1_19
+    IsLocal: 0
+  - Nickname: JRPSQ
+    Position: 5
+    Rank: 93644
+    IconName: icons_1_15
+    IsLocal: 0
+  - Nickname: YYGASWSSNIV
+    Position: 6
+    Rank: 92304
+    IconName: icons_1_17
+    IsLocal: 0
+  - Nickname: QLPXILLRWNOMT
+    Position: 7
+    Rank: 91431
+    IconName: icons_1_16
+    IsLocal: 0
+  - Nickname: EIGFWIJPUHWTNB
+    Position: 8
+    Rank: 89973
+    IconName: icons_1_0
+    IsLocal: 0
+  - Nickname: NBECTJJ
+    Position: 9
+    Rank: 89190
+    IconName: icons_1_4
+    IsLocal: 0
+  - Nickname: SMGCIX
+    Position: 10
+    Rank: 87799
+    IconName: icons_1_3
+    IsLocal: 0
+  - Nickname: RRZHCACBOS
+    Position: 11
+    Rank: 86803
+    IconName: icons_1_15
+    IsLocal: 0
+  - Nickname: NHGJQXLYWBQ
+    Position: 12
+    Rank: 85596
+    IconName: icons_1_12
+    IsLocal: 0
+  - Nickname: OEOWZX
+    Position: 13
+    Rank: 84337
+    IconName: icons_1_7
+    IsLocal: 1
+  - Nickname: NTCCQIUMBI
+    Position: 14
+    Rank: 83319
+    IconName: icons_1_19
+    IsLocal: 0
+  - Nickname: WYGPSPVQJCLXOW
+    Position: 15
+    Rank: 82130
+    IconName: icons_1_16
+    IsLocal: 0
+  - Nickname: WJETTP
+    Position: 16
+    Rank: 80619
+    IconName: icons_1_16
+    IsLocal: 0
+  - Nickname: QCOPXPDPHPQKF
+    Position: 17
+    Rank: 79326
+    IconName: icons_1_10
+    IsLocal: 0
+  - Nickname: EQQFCLTQWLRUGC
+    Position: 18
+    Rank: 78373
+    IconName: icons_1_13
+    IsLocal: 0
+  - Nickname: XYTBUFWTYOLFU
+    Position: 19
+    Rank: 76998
+    IconName: icons_1_12
+    IsLocal: 0
+  - Nickname: VPZYPSEIYSL
+    Position: 20
+    Rank: 75658
+    IconName: icons_1_6
+    IsLocal: 0
+  - Nickname: FGYPHUUW
+    Position: 21
+    Rank: 74786
+    IconName: icons_1_8
+    IsLocal: 0
+  - Nickname: LDWILCUCEKNJ
+    Position: 22
+    Rank: 73389
+    IconName: icons_1_3
+    IsLocal: 0
+  - Nickname: UKDBUY
+    Position: 23
+    Rank: 72394
+    IconName: icons_1_11
+    IsLocal: 0
+  - Nickname: FGFJVVYF
+    Position: 24
+    Rank: 71123
+    IconName: icons_1_3
+    IsLocal: 0
+  - Nickname: OIAMQQ
+    Position: 25
+    Rank: 69759
+    IconName: icons_1_3
+    IsLocal: 0
+  - Nickname: SWFKCAKTHQWBOM
+    Position: 26
+    Rank: 69004
+    IconName: icons_1_3
+    IsLocal: 0
+  - Nickname: LHJLHWOBPLKQL
+    Position: 27
+    Rank: 67771
+    IconName: icons_1_2
+    IsLocal: 0
+  - Nickname: QRJBVGU
+    Position: 28
+    Rank: 66429
+    IconName: icons_1_4
+    IsLocal: 0
+  - Nickname: XICAVXITEOUMKA
+    Position: 29
+    Rank: 65100
+    IconName: icons_1_6
+    IsLocal: 0
+  - Nickname: OZCWMTVXVT
+    Position: 30
+    Rank: 64233
+    IconName: icons_1_1
+    IsLocal: 0
+  - Nickname: MYFJYG
+    Position: 31
+    Rank: 62540
+    IconName: icons_1_11
+    IsLocal: 0
+  - Nickname: MHSZOLDGJKM
+    Position: 32
+    Rank: 61479
+    IconName: icons_1_4
+    IsLocal: 0
+  - Nickname: CBKOGCZEF
+    Position: 33
+    Rank: 60314
+    IconName: icons_1_19
+    IsLocal: 0
+  - Nickname: VGABK
+    Position: 34
+    Rank: 59311
+    IconName: icons_1_18
+    IsLocal: 0
+  - Nickname: NVDMEJTOJSOLHN
+    Position: 35
+    Rank: 58281
+    IconName: icons_1_6
+    IsLocal: 0
+  - Nickname: RSMQHBAZMP
+    Position: 36
+    Rank: 56636
+    IconName: icons_1_4
+    IsLocal: 0
+  - Nickname: ZCVHYHYY
+    Position: 37
+    Rank: 55739
+    IconName: icons_1_17
+    IsLocal: 0
+  - Nickname: LVNDOUID
+    Position: 38
+    Rank: 54348
+    IconName: icons_1_10
+    IsLocal: 0
+  - Nickname: RLHFTDMRUWIB
+    Position: 39
+    Rank: 53153
+    IconName: icons_1_9
+    IsLocal: 0
+  - Nickname: ZPVJPHVDFMO
+    Position: 40
+    Rank: 51877
+    IconName: icons_1_9
+    IsLocal: 0
+  - Nickname: HTNVGKJZSNUL
+    Position: 41
+    Rank: 50790
+    IconName: icons_1_2
+    IsLocal: 0
+  - Nickname: CTTQXUTIJ
+    Position: 42
+    Rank: 49490
+    IconName: icons_1_8
+    IsLocal: 0
+  - Nickname: ICSFGBZNDVGMC
+    Position: 43
+    Rank: 48680
+    IconName: icons_1_0
+    IsLocal: 0
+  - Nickname: HPEPSQCSUGOYN
+    Position: 44
+    Rank: 47393
+    IconName: icons_1_3
+    IsLocal: 0
+  - Nickname: VNBXAINJTPIHNH
+    Position: 45
+    Rank: 46124
+    IconName: icons_1_13
+    IsLocal: 0
+  - Nickname: WATSWERAZLAN
+    Position: 46
+    Rank: 45237
+    IconName: icons_1_19
+    IsLocal: 0
+  - Nickname: QIQOFDWZBUVD
+    Position: 47
+    Rank: 43874
+    IconName: icons_1_15
+    IsLocal: 0
+  - Nickname: MSWERKK
+    Position: 48
+    Rank: 42755
+    IconName: icons_1_19
+    IsLocal: 0
+  - Nickname: JWAWNWSQ
+    Position: 49
+    Rank: 41339
+    IconName: icons_1_12
+    IsLocal: 0
+  - Nickname: QZLQAAS
+    Position: 50
+    Rank: 39959
+    IconName: icons_1_0
+    IsLocal: 0
+  - Nickname: IFUYI
+    Position: 51
+    Rank: 38943
+    IconName: icons_1_17
+    IsLocal: 0
+  - Nickname: IGCRFVGW
+    Position: 52
+    Rank: 38054
+    IconName: icons_1_10
+    IsLocal: 0
+  - Nickname: DMTDAVSLNRKSHZ
+    Position: 53
+    Rank: 36741
+    IconName: icons_1_0
+    IsLocal: 0
+  - Nickname: FYFGVIGKCZU
+    Position: 54
+    Rank: 35368
+    IconName: icons_1_8
+    IsLocal: 0
+  - Nickname: XDZWOP
+    Position: 55
+    Rank: 34508
+    IconName: icons_1_15
+    IsLocal: 0
+  - Nickname: PEJRYO
+    Position: 56
+    Rank: 32880
+    IconName: icons_1_13
+    IsLocal: 0
+  - Nickname: UOQEJQIEMTXVX
+    Position: 57
+    Rank: 31692
+    IconName: icons_1_2
+    IsLocal: 0
+  - Nickname: MOHDTLPLVP
+    Position: 58
+    Rank: 30936
+    IconName: icons_1_8
+    IsLocal: 0
+  - Nickname: IWHIXVVNTUI
+    Position: 59
+    Rank: 29475
+    IconName: icons_1_7
+    IsLocal: 0
+  - Nickname: IWGRKG
+    Position: 60
+    Rank: 28510
+    IconName: icons_1_9
+    IsLocal: 0
+  - Nickname: NOCJZFIUPWNEXQ
+    Position: 61
+    Rank: 27097
+    IconName: icons_1_0
+    IsLocal: 0
+  - Nickname: HZTTZPKHHOOXRE
+    Position: 62
+    Rank: 25920
+    IconName: icons_1_17
+    IsLocal: 0
+  - Nickname: UTULWIKATQVZL
+    Position: 63
+    Rank: 24883
+    IconName: icons_1_14
+    IsLocal: 0
+  - Nickname: KZESFNZSBSQ
+    Position: 64
+    Rank: 23390
+    IconName: icons_1_17
+    IsLocal: 0
+  - Nickname: SAHAVUFNLRITF
+    Position: 65
+    Rank: 22088
+    IconName: icons_1_11
+    IsLocal: 0
+  - Nickname: VIVFHFID
+    Position: 66
+    Rank: 21065
+    IconName: icons_1_5
+    IsLocal: 0
+  - Nickname: CKDRQDWYVRLK
+    Position: 67
+    Rank: 19694
+    IconName: icons_1_9
+    IsLocal: 0
+  - Nickname: OMKMIADSWIXRP
+    Position: 68
+    Rank: 18783
+    IconName: icons_1_13
+    IsLocal: 0
+  - Nickname: JPZDDH
+    Position: 69
+    Rank: 17885
+    IconName: icons_1_13
+    IsLocal: 0
+  - Nickname: IZTRKXWTJRW
+    Position: 70
+    Rank: 16259
+    IconName: icons_1_3
+    IsLocal: 0
+  - Nickname: UYRGISLGLDMCVZ
+    Position: 71
+    Rank: 15319
+    IconName: icons_1_15
+    IsLocal: 0
+  - Nickname: MSWZAKB
+    Position: 72
+    Rank: 14044
+    IconName: icons_1_8
+    IsLocal: 0
+  - Nickname: XFVVL
+    Position: 73
+    Rank: 13042
+    IconName: icons_1_13
+    IsLocal: 0
+  - Nickname: FLARYDB
+    Position: 74
+    Rank: 11613
+    IconName: icons_1_11
+    IsLocal: 0
+  - Nickname: ICWLPK
+    Position: 75
+    Rank: 10531
+    IconName: icons_1_0
+    IsLocal: 0
+  - Nickname: XTNQUXRO
+    Position: 76
+    Rank: 9540
+    IconName: icons_1_12
+    IsLocal: 0
+  - Nickname: BYDUDIFU
+    Position: 77
+    Rank: 7924
+    IconName: icons_1_13
+    IsLocal: 0
+  - Nickname: MVVDIEMQLLKUTL
+    Position: 78
+    Rank: 6772
+    IconName: icons_1_16
+    IsLocal: 0
+  - Nickname: UHPAYHD
+    Position: 79
+    Rank: 5751
+    IconName: icons_1_19
+    IsLocal: 0
+  - Nickname: IGEOH
+    Position: 80
+    Rank: 4414
+    IconName: icons_1_19
+    IsLocal: 0
+  - Nickname: RUROMBK
+    Position: 81
+    Rank: 3515
+    IconName: icons_1_17
+    IsLocal: 0
+  - Nickname: DKILNZAMCXN
+    Position: 82
+    Rank: 2088
+    IconName: icons_1_13
+    IsLocal: 0
+  - Nickname: JCEJGXCDTEAB
+    Position: 83
+    Rank: 895
+    IconName: icons_1_4
+    IsLocal: 0
+  - Nickname: OQUKMHOTWTFO
+    Position: 84
+    Rank: 0
+    IconName: icons_1_11
+    IsLocal: 0
